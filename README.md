@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Oi,meu nome é @Rickxd123
+- 👋 Oi,meu nome é 'Rickxd123'
 - 👀 Atualmente jogando Volei
 - 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
